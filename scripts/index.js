@@ -1,5 +1,7 @@
-const btn = document.getElementById("btn");
+// Adrián Fernández Rodríguez
+// https://github.com/adriferro/CalcRectangulo.git
 
+const btn = document.getElementById("btn");
 
 btn.addEventListener("click", () => {
     const largo = parseFloat(document.getElementById("largo").value);
